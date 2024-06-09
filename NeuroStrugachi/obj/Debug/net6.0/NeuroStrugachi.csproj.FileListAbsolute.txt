@@ -1,0 +1,15 @@
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\bin\Debug\net6.0\NeuroStrugachi.exe
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\bin\Debug\net6.0\NeuroStrugachi.deps.json
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\bin\Debug\net6.0\NeuroStrugachi.runtimeconfig.json
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\bin\Debug\net6.0\NeuroStrugachi.dll
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\bin\Debug\net6.0\NeuroStrugachi.pdb
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.csproj.AssemblyReference.cache
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.AssemblyInfoInputs.cache
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.AssemblyInfo.cs
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.csproj.CoreCompileInputs.cache
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.dll
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\refint\NeuroStrugachi.dll
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.pdb
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\NeuroStrugachi.genruntimeconfig.cache
+C:\Users\79120\source\repos\NeuroStrugachi\NeuroStrugachi\obj\Debug\net6.0\ref\NeuroStrugachi.dll
